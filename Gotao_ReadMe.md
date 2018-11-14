@@ -1,4 +1,7 @@
-Sprint #1 - 11/13/2018
+# Sprint #1 - 11/13/2018
+
++ Send request for token from Spotify API
++ Use token to query data
 
 Mostly focused on learning how to get the Spotify API up and running in Java. The hardest part of this sprint was figuring out how to set 
 the request properties of the URL connection, since the Spotify documentation is a little esoteric in writing. After a lot of research and 
