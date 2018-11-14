@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Moodify.iml" filepath="$PROJECT_DIR$/Moodify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spotify-app-remote/spotify-app-remote.iml" filepath="$PROJECT_DIR$/spotify-app-remote/spotify-app-remote.iml" />
     </modules>
   </component>
 </project>
