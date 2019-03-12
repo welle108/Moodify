@@ -1,3 +1,3 @@
 # moodify
 
-Automated playlist creation based on user input
+An Android app designed to return a playlist based on the user's mood
